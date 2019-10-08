@@ -1,0 +1,22 @@
+input{
+	width: 300px;
+	height: 55px;
+	border: 1px solid salmon;
+}
+.header{
+	width:302px;
+	margin: auto;
+	border: 1px solid red;
+	background-color: coral;
+}
+button{
+	background-color: sandybrown;
+	width:71px;
+	height: 51px;
+	margin-left:3px;
+}
+#input{
+	font-size: 40px;
+	text-align: right;
+	background-color:seashell;
+}
